@@ -79,9 +79,10 @@ sudo fuser XXXX/tcp -k           // to kill the XXXX process and make that port 
 * Now visit `localhost:XXXX` in your browser.
 **Use the application and experience the difference in searching.**
 ***
-### Developing Team ####
+
+### Developers ####
 * Aman Rai - Team Co-ordinator
-* Ayushi Goyal - Tech Expert
+* Ayushi Goyal - Technical Expert
 * Prachi Agrawal - Technical Expert
 * Vinay Singh - Documentation Specialist
 
